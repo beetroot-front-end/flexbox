@@ -21,7 +21,9 @@ html {
 /**
  * Add the correct display in IE 9-.
  */
-
+body {
+  margin: 0;
+}
 article,
 aside,
 footer,
